@@ -6,7 +6,7 @@
 
 **KuwoMusicCrack v1.0-2 :解锁KuwoMusic歌曲播放限制，缓存限制(部分用户反馈缓存后丢失，测试后未复现)，音质限制，VIP限制等，均在状态工具栏开启**
 
-**injectipa v1.3-9:命令行一键注入dylib至ipa工具，自动修改dylib依赖，可自定义应用图标，可自定义应用名称，可自定义标识符，可添加资源文件至根目录，可修复AppThinning部分设备白图标，可弱引用模式注入，可开启应用沙盒外部访问等。具体查看介绍**
+**injectipa v1.4-1:命令行一键注入dylib至ipa工具，自动修改dylib依赖，可自定义应用图标，可自定义应用名称，可自定义标识符，可添加资源文件至根目录，可修复AppThinning部分设备白图标，可弱引用模式注入，可开启应用沙盒外部访问等。具体查看介绍**
 
 **esign v1.1-8:Command line IPA signing tool using ldid as signature core**
 
